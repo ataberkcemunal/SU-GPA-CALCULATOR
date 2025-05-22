@@ -1,6 +1,6 @@
 # GPA Calculator
 
-A Python tool to calculate GPA based on Sabanci University's grading system. This tool helps students estimate their future GPA by processing their transcript PDF and allowing them to input estimated grades for registered courses.
+A Python tool that helps Sabanci University students calculate their GPA by processing transcript PDFs and estimating future grades. Supports both SU Credits and ECTS calculations.
 
 ## Features
 

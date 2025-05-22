@@ -1,2 +1,1 @@
-pdfplumber==0.10.3
-flask==3.0.2 
+pdfplumber==0.10.3 

@@ -221,7 +221,7 @@ def main():
 
     # Calculate new CGPA
     if new_total_credits == 0:
-        new_cgpa = 0.0
+        new_cgpa = cgpa
     else:
         new_cgpa = new_total_grade_points / new_total_credits
 
